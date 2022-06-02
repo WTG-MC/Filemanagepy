@@ -11,9 +11,7 @@ setuptools.setup(
     author_email="windowstechmc0s@gmail.com",
     description="A library That Can Help with python file management",
     # long_description=long_description,
-    long_description_content_type="text/markdown",
-    long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-    url="https://github.com/ovipaul/zenith",
+    url="https://github.com/WTG-MC/Filemanagepy",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
